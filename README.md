@@ -15,9 +15,9 @@ I have hands-on experience with **Java, Python, React, Docker, and Kubernetes**,
 
 ## 🎯 My Skillset
 
-- **Machine Learning & AI**: Deep learning, model optimization, MLOps.
-- **Cloud & DevOps**: AWS (4x certified), Docker, Kubernetes, CI/CD pipelines.
 - **Software Development**: Python, Java, React, API development, distributed systems.
+- **Cloud & DevOps**: AWS (4x certified), Docker, Kubernetes, CI/CD pipelines.
+- **Machine Learning & AI**: Deep learning, model optimization, MLOps.
 - **Data & Analytics**: ETL pipelines, data engineering, Power BI visualization.
 
 ---
@@ -25,7 +25,7 @@ I have hands-on experience with **Java, Python, React, Docker, and Kubernetes**,
 ## 💡 Always Learning
 
 I thrive in fast-paced environments and enjoy tackling complex challenges.  
-Whether it's **optimizing ML models, designing scalable cloud architectures,** or **diving into full-stack development**,  
+Whether it's **diving into full-stack development, optimizing ML models,** or **designing scalable cloud architectures**,  
 I’m constantly expanding my skill set to stay ahead of the curve.
 
 ---
