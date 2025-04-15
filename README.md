@@ -15,8 +15,8 @@ I have hands-on experience with **Java, Python, React, Docker, and Kubernetes**,
 
 ## 🎯 My Skillset
 
-- **Software Development**: Python, Java, React, API development, distributed systems.
-- **Cloud & DevOps**: AWS (4x certified), Docker, Kubernetes, CI/CD pipelines.
+- **Software Development**: Java, React, Python, API development (Spring Boot & Flask), distributed systems.
+- **Cloud & DevOps**: AWS (5x certified), Docker, Kubernetes, CI/CD pipelines (Jenkins & Github Actions).
 - **Machine Learning & AI**: Deep learning, model optimization, MLOps.
 - **Data & Analytics**: ETL pipelines, data engineering, Power BI visualization.
 
