@@ -1,43 +1,43 @@
-# 👋 Hi there, I’m Kyle!
+# 👋 Hi, I’m Kyle Finch
 
-I'm a **software engineer** with a strong background in **full-stack development, cloud computing, and machine learning**.  
-I have hands-on experience with **Java, Python, React, Docker, and Kubernetes**, and I'm always eager to explore new technologies to build scalable and efficient applications.
+I’m a **Java backend engineer** based in London, specialising in the design and delivery of robust, scalable, and production-ready systems. My work spans backend services, cloud-native infrastructure, and automation — most recently leveraging **Spring Boot**, **PostgreSQL**, and **AWS** to solve real-world engineering challenges at scale.
 
----
-
-## 🚀 What I’m Working On
-
-- Building a **Java/React finance application**, combining back-end robustness with modern front-end frameworks.
-- Expanding my knowledge of **AI/ML pipelines and cloud-native solutions**.
-- Contributing to projects that leverage **AWS, Kubernetes, and microservices architectures**.
+I’m currently deepening my expertise in backend architecture and system design, with the goal of contributing to high-impact, distributed platforms that demand performance, resilience, and clean design at scale.
 
 ---
 
-## 🎯 My Skillset
+## 🎯 My Focus
 
-- **Software Development**: Java, React, Python, API development (Spring Boot & Flask), distributed systems.
-- **Cloud & DevOps**: AWS (5x certified), Docker, Kubernetes, CI/CD pipelines (Jenkins & Github Actions).
-- **Machine Learning & AI**: Deep learning, model optimization, MLOps.
-- **Data & Analytics**: ETL pipelines, data engineering, Power BI visualization.
-
----
-
-## 💡 Always Learning
-
-I thrive in fast-paced environments and enjoy tackling complex challenges.  
-Whether it's **diving into full-stack development, optimizing ML models,** or **designing scalable cloud architectures**,  
-I’m constantly expanding my skill set to stay ahead of the curve.
+- **Core Specialty**: Java (Spring Boot), REST APIs, database modelling, CI/CD
+- **Current Learning**: System design, event-driven architectures, microservice communication
+- **Complementary Skills**: AWS (5x Certified), Docker (DCA Certified), GitHub Actions, Flask, React
 
 ---
 
-## 📫 Get in Touch
+## 📂 Featured Projects
 
-Let's connect! You can find me on:
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| **BudgetMaster** | Personal budgeting API allowing consumers to add incomes and projected expenses to determine the savings amount for a given month. Teaches core principles of API design, validation, and error handling. | Java (Spring Boot), PostgreSQL | [BudgetMaster](https://github.com/kyle-fred/BudgetMaster) |
+| **Round-Up API** | Backend system to round up transaction deltas and transfer to savings goals. Integrates with Starling’s sandbox API and handles token-based authentication. | Java, Spring Boot, REST, External APIs | [Starling Round-Up](https://github.com/kyle-fred/starling-roundup) |
+| **Diegesis Hub** | Internal company product to manage internal operations, built on a fully serverless architecture. | Java, AWS Lambda, API Gateway, Aurora MySQL, Cognito | Internal project |
+| **Data Labeling with LLMs** | Developed an open-source [Label Studio]([https://github.com/kyle-fred/starling-roundu](https://humansignal.com/)) integration powered by a custom Flask API, incorporating Gemini for automated pre-annotation of unstructured data. Fully containerized for seamless deployment within real-time machine learning workflows. | Python, Flask, Docker, Gemini 1.5 Flash | Internal project<br>[Article](https://humansignal.com/blog/label-studios-role-in-stop-the-traffik-s-mission-to-end-human-trafficking/)<br> |
 
-- **GitHub**: [@kyle-fred](https://github.com/kyle-fred)  
-- **LinkedIn**: [Kyle Finch](https://www.linkedin.com/in/kyle-finch98/)  
-- **Email**: [kyle.fred.finch@gmail.com](mailto:kyle.fred.finch@gmail.com)  
+> 📌 More Java-centric projects (e.g. asynchronous processors, event-driven systems, service orchestrations) coming soon.
 
 ---
 
-⚡ **Fun fact**: I am a former professional squash player and the youngest Englishman to have won a senior professional event, at 17.
+## 💬 About Me
+
+Former **world no.1 squash player**. Now channeling an athletes growth mindset into software engineering.  
+
+My goal is to become an exceptional Java backend engineer, and to earn my place in teams solving real systemic complexity.
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kyle-finch98/)
+- 📬 [kyle.fred.finch@gmail.com](mailto:kyle.fred.finch@gmail.com)
+- 🛠️ [GitHub](https://github.com/kyle-fred)
+
